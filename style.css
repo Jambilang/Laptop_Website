@@ -1,7 +1,7 @@
 body {
     font-family: Arial;
     margin: 0;
-    background-color: #f5f5f5;
+    background-color: white;
 }
 
 /* Smooth page fade-in */
@@ -23,7 +23,7 @@ header {
 
 /* Navigation hover animation */
 nav {
-    background-color: #333;
+    background-color: gray;
     text-align: center;
     padding: 10px;
 }
